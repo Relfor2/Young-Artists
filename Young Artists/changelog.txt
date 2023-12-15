@@ -1,0 +1,80 @@
+# Changelog
+
+## Home
+- Added header.
+- Added slideshow.
+- Added images.
+- Added "About website" <p>.
+*Done
+
+## Shop
+- Added header.
+- header fix.
+- Added first product line (3 products).
+- First product line fix and added second line (3 products).
+- Added products description.
+- Added About webpage <p>.
+*Done
+
+## Artists
+- Added header.
+- Added Artists photos.
+- Added Artists bio.
+- Added About webpage <p>.
+*Done
+
+## Arts
+- Added header.
+- Added Arts.
+- Added Arts description.
+- Added About webpage <p>.
+*Done
+
+## Crafts
+- Added header.
+- Added Crafts.
+- Added Crafts description.
+- Added About webpage <p>.
+*Done
+
+## Products
+- Added header.
+- Added Arts and Crafts divs.
+- Added links.
+- Added hints.
+- Added About webpage <p>.
+*Done
+
+## Feedback
+- Added header.
+- Added Bug Reporting Form (BRF) <h1>.
+- Added BRF input field.
+- Added submit.
+- Added contact details.
+- Added Feedback Form <h1>.
+- Added Feedback Form input field.
+- Added About webpage <p>.
+*Done
+
+## Enquiry Form
+- Added header.
+- Added Enquiry Form (EF) div.
+- Added Full Name & Contact Details <h1>
+- Added input fields.
+- Added submit button.
+- Added About webpage <p>.
+*Done
+
+## About Us
+- Added header.
+- Added text information about website.
+- Added map image and its name.
+- Added link under map.
+*Done
+
+```
+
+
+
+
+pegRKmPi7\gj3y1oh(CS4L;!>=c
